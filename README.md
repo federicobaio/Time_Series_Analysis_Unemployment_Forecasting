@@ -19,8 +19,8 @@ I followed a structured econometric approach to ensure model robustness:
 * **Core Libraries:** `forecast`, `tseries`, `ggplot2`, and `stats`.
 
 ## 📂 Repository Structure
-* **Analysis_Report.pdf**: The final paper detailing the statistical theory, model selection process, and economic interpretation.
-* **Analysis_Source.Rmd**: The complete R Markdown script for full reproducibility of the results.
+* **Analysis_Code.pdf**: The final paper detailing the statistical theory, model selection process, and economic interpretation.
+* **Analysis_Code.Rmd**: The complete R Markdown script for full reproducibility of the results.
 * **LNS14000006.csv**: The raw time series dataset.
 
 ## 📈 Key Findings
